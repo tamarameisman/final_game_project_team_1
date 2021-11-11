@@ -4,9 +4,9 @@ Create a game
 # Authors
 - Brian C Lewis - 1808ub@gmail.com @ub808
 - Federico Pregnolato - pre13009@byui.edu
-- [add here]
-- [add here]
-- [add here]
+- David Carsin - dcarsin@byui.edu 
+- Tamara Meisman - tamara@meisman.us 
+- Yamil Claure - cla21028@byui.edu 
 
 # Notes from 11/10/21 Meeting
 Programming Language
