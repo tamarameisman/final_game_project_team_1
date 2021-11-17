@@ -54,6 +54,25 @@ Mock-up
 	- sad face animation (3)
 	- restart button (2)
 
-
 Roles/Responsibilities
 - TBD
+
+# Classes
+main - Brian
+constants - Brian
+director - Brian
+player - Brian
+screen - David
+	camera
+on_draw / output - Tamara 
+	.draw
+on_update - Tamara
+	check_collision	
+input - Federico
+rewards (coins / gems) - David
+platforms - David
+sound design - Yamil
+level 
+enemy
+valleys
+
